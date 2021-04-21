@@ -3,17 +3,21 @@ body {
 }
 
 .buttons  {
-    background-color: #a6f56a;
+    background-color: azure;
     display:flex;
     justify-content: space-between;
     width: 150px;
     height: 50px;
     margin: auto;
+    margin-top: 30%;
+    
 }
 
 
 .buttons  button {
-    width: 50px;    
+    width: 50px;
+
+        
 }
 
 h1 {
@@ -30,7 +34,6 @@ h1 {
     text-align: center;
     background-color: white;
 }
-
 
 
 
